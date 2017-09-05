@@ -12,3 +12,15 @@ MDAwMTA3z4wC6AZzPDWVXBYTCwiKchpmUycAlQ0OSAantgqBgqfAazUKPGoYy0E1texZEEbCY2bAPIZR
 MDAwMTA31VIFlQNbE0eKD-UAacbxVbLqt9cyFreMTIuvFgnw49hVcc-t_IEleHlK8P66Y2W_qzqNrMQ3P0WpDCs4L9_8RLe5p8GyUkfhs2cRrqUXqf4
 MDAwMTA30r_0liMm5ao4qVPgJZWULWjcqARleYrLEU0dWSsB01mzpaxZ31Sqd-mT7EwWsEyrqcvmWOix6O9VEieBnFuazNC2VTzkDG0ZabS2RgkaTMg
 MDAwMTA3JxMMfzutFIovDWGrMbm49STKi9zsgoPEuDl1282vYoZdeIEXFXSLTGQCf3VoK0hfroVYdDfgYfdDMeFp-j6SjSVgTjt9kfObOMdStvvY7QI
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 464E-C3EB
+
+ C:\goprojects\src\test5 的目录
+
+2017/09/05  10:54    <DIR>          .
+2017/09/05  10:54    <DIR>          ..
+2017/08/31  08:53                65 doc.go
+2017/09/05  10:54             9,615 main.go
+2017/09/05  10:54         5,661,184 test5.exe
+               3 个文件      5,670,864 字节
+               2 个目录 38,256,799,744 可用字节
